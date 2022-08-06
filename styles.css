@@ -280,6 +280,12 @@ h3 {
     }
 }
 
+@media (max-width: 599px) {
+    .section__subtitle--intro {
+        width: calc(100% + .55em);
+    }
+}
+
 /*  My services section  */
 
 .my-services {
