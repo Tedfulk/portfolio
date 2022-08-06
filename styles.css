@@ -281,7 +281,8 @@ h3 {
 }
 
 @media (max-width: 599px) {
-    .section__subtitle--intro {
+    .section__subtitle--intro,
+    .section__subtitle--about {
         width: calc(100% + .55em);
     }
 }
